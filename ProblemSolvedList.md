@@ -42,4 +42,6 @@ Merge the two lists into one sorted list. The list should be made by splicing to
 
 22. **Sort Colors** - Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
 
-23. **Next Problem** - 
+23. **Single Number** - Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+24. **Find the Index of the First Occurence in a String** - Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. 
